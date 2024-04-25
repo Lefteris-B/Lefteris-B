@@ -17,8 +17,8 @@
 
 
 <h4 align="left">Digital design:</h4>
-<p align="left">   </p>
-<img src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="System Verilog" width="80" height="40"/> <img src="https://www.veripool.org/img/verilator_256_200_min.png" alt="Verilator" width="40" height="40"/> </a>
+<p align="left">  
+<img src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="System Verilog" width="80" height="40"/> </a>  <img src="https://www.veripool.org/img/verilator_256_200_min.png" alt="Verilator" width="40" height="40"/> </a> <img src="https://avatars.githubusercontent.com/u/35169771?s=200&v=4" alt="Yosys" width="40" height="40"/> </a>    </p>
 
 <h4 align="left">Embedded:</h4>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  </p>
