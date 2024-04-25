@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legteris-b&label=Profile%20views&color=0e75b6&style=flat" alt="legteris-b" /> </p>
 
-- 📫 How to reach me **@iamme**
+- 📫 How to reach me **[@iamme](https://discordapp.com/users/xxxx/)**
 
 - 📄 Know about my experiences [CV](https://docs.google.com/document/d/1IdhkaN04fvPXWVz48lnvXDjXVk200oKvuuzKck3DhGI/edit?usp=sharing)
 
