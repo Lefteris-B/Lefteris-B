@@ -21,7 +21,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="System Verilog" width="80" height="40"/> </a>  <img src="https://www.veripool.org/img/verilator_256_200_min.png" alt="Verilator" width="40" height="40"/> </a> <img src="https://avatars.githubusercontent.com/u/35169771?s=200&v=4" alt="Yosys" width="40" height="40"/> </a>    </p>
 
 <h4 align="left">Embedded:</h4>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  </p>
+<p align="left"> <a href="https://www.stm32.com/" target="_blank" rel="noreferrer"> <img src="https://scontent.fskg1-1.fna.fbcdn.net/v/t39.30808-6/348433596_1679065595861443_1898025895954445312_n.png" alt="STM32" width="40" height="40"/> </a> <a href="https://www.nxp.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/NXP-Logo.svg" alt="NXP" width="40" height="40"/> </a> <a href="https://www.arm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Arm_logo_2017.svg" alt="arm" width="40" height="40"/> </a> <a href="https://www.riscv.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
 
 
 <h4 align="left">Coding :</h4>
